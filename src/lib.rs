@@ -18,3 +18,4 @@ pub mod curve25519;
 pub mod gf128;
 pub mod p256;
 pub mod poly1305;
+pub mod tls12;
